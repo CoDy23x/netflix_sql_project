@@ -264,3 +264,12 @@ GROUP BY 1;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+## How to Use
+
+**Clone the Repository**: Clone this repository to your local machine.
+   ```sh
+   git clone https://github.com/CoDy23x/netflix_sql_project.git
+   ```
+
+Thank you for your interest in this project!
